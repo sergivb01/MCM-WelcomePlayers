@@ -1,0 +1,2 @@
+#Variables: %player_name% %player_displayname% %all_players%
+broadcast-message: "Welcome %player_name% to MyShittyServer! (%all_players%)"
