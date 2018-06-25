@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Welcome Players:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Welcome_Players_jar</output-path>
+    <root id="archive" name="Welcome Players.jar">
+      <element id="module-output" name="Welcome Players" />
+    </root>
+  </artifact>
+</component>
