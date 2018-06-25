@@ -24,7 +24,7 @@ public class WelcomePlugin extends JavaPlugin implements Listener{
 		getLogger().info("Loaded Welcome plugin - sergivb01");
 	}
 
-	@EventHandler
+	@Override
 	public void onDisable(){
 		getLogger().info("Disabled Welcome plugin - sergivb01");
 	}
